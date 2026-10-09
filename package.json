@@ -1,0 +1,20 @@
+{
+  "name": "nvm100.826",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vonneche/nvm100.826.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vonneche/nvm100.826/issues"
+  },
+  "homepage": "https://github.com/Vonneche/nvm100.826#readme"
+}
