@@ -4,37 +4,6 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-<<<<<<< HEAD
-        
-        {
-            "name": "PowerShell Attach to Host Process",
-            "type": "PowerShell",
-            "request": "attach"
-        },
-        
-        {
-            "name": "PowerShell: Windows PowerShell",
-            "type": "PowerShell",
-            "request": "launch",
-            "sessionName": "Windows PowerShell (x64)"
-        },
-        {
-            "name": "PowerShell 7: Launch Current File",
-            "type": "PowerShell",
-            "request": "launch",
-            "script": "${file}",
-            "args": [],
-            "cwd": "${workspaceFolder}",
-            "createTemporaryIntegratedConsole": true
-        },
-        {
-            "name": "PowerShell Attach to Host Process",
-            "type": "PowerShell",
-            "request": "attach"
-        },
-
-=======
->>>>>>> 0578c0fe39847211c8ad1f29a75197cdf7b8e074
         {
             "name": "PowerShell: Launch Current File",
             "type": "PowerShell",
