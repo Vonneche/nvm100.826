@@ -4,6 +4,7 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+<<<<<<< HEAD
         
         {
             "name": "PowerShell Attach to Host Process",
@@ -32,6 +33,8 @@
             "request": "attach"
         },
 
+=======
+>>>>>>> 0578c0fe39847211c8ad1f29a75197cdf7b8e074
         {
             "name": "PowerShell: Launch Current File",
             "type": "PowerShell",
