@@ -6,10 +6,25 @@
     "configurations": [
         
         {
+            "name": "PowerShell Attach to Host Process",
+            "type": "PowerShell",
+            "request": "attach"
+        },
+        
+        {
             "name": "PowerShell: Windows PowerShell",
             "type": "PowerShell",
             "request": "launch",
             "sessionName": "Windows PowerShell (x64)"
+        },
+        {
+            "name": "PowerShell 7: Launch Current File",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${file}",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "createTemporaryIntegratedConsole": true
         },
         {
             "name": "PowerShell Attach to Host Process",
